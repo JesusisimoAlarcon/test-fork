@@ -1,0 +1,1 @@
+{"estudiantes":[{"nombre":"jesus","apellidos":"alarcon","notas":[{"parcial":"1er parcial","nota":50,"estado":"aprobado"},{"parcial":"2do parcial","nota":1000,"estado":"aprobado"},{"parcial":"examen final","nota":35,"estado":"reprobado"}]},{"nombre":"maria","apellidos":"perez"}],"total":2}
