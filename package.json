@@ -5,7 +5,7 @@
   "main": "flujos.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon run test.js"
+    "dev": "nodemon run prueba.js"
   },
   "keywords": [],
   "author": "",
